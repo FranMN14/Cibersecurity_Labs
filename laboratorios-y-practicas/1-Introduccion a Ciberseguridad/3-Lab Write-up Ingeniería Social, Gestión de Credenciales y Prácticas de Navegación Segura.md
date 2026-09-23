@@ -1,11 +1,11 @@
 # Notas de Lab: Ingeniería Social y Buenas Prácticas de Ciberseguridad
 
-## 📌 ¿De qué trata este laboratorio?
+##  ¿De qué trata este laboratorio?
 En este laboratorio aprendimos a identificar peligros comunes del día a día, como lo que publicamos en redes sociales, el uso de redes Wi-Fi públicas, la descarga de programas no oficiales y los correos tramposos (Phishing).
 
 ---
 
-## 🛠️ Análisis de Escenarios y Respuestas
+##  Análisis de Escenarios y Respuestas
 
 ### Escenario 1: Peligros en Redes Sociales
 * **Riesgo:** Subir mucha información personal (dónde estamos, facturas, compras caras o la dirección de la casa) le da pistas a delincuentes o estafadores.
@@ -51,7 +51,7 @@ En este laboratorio aprendimos a identificar peligros comunes del día a día, c
 
 ---
 
-## 🛡️ Cosas importantes que aprendí para protegerme
+## Cosas importantes que aprendí para protegerme
 
 1. **Usar VPN:** Siempre que me conecte a una red Wi-Fi pública o fuera de casa.
 2. **No instalar aplicaciones raras:** Descargar programas solo de sitios oficiales o pedir permiso a TI.
