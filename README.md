@@ -1,8 +1,8 @@
-# 🛡️ Cybersecurity & Network Labs | Cisco & Mujer Digital 
+# 👾 Cybersecurity & Network Labs | Cisco & Mujer Digital 
 
 Bienvenido/a a mi repositorio técnico de ciberseguridad y redes. Aquí documento mis configuraciones, análisis de tráfico y laboratorios prácticos desarrollados durante mi programa intensivo con **Mujer Digital** y **Cisco Networking Academy**.
 
-## 🚀 Competencias y Rutas de Aprendizaje
+## ✨ Competencias y Rutas de Aprendizaje
 
 Actualmente, este repositorio contiene evidencia práctica de los siguientes dominios técnicos:
 
@@ -24,4 +24,4 @@ Actualmente, este repositorio contiene evidencia práctica de los siguientes dom
 *   **Seguridad Defensiva:** Comprobación de integridad mediante Hashes (SHA-256), borrado seguro de datos (`sdelete`/`shred`) y auditoría del Registro de Windows.
 
 ---
-*Construyendo una infraestructura segura y confiable, un paquete de datos a la vez.* 💻✨
+
